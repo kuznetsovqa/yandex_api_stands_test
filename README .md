@@ -24,4 +24,4 @@
 
 В тесте №12, ожидаемый код ответа 400 bad request, фактический 500.
 
-![Image alt](https://github.com/kuznetsovqa/yandex_api_stands_test/blob/master/Снимок%20экрана%202023-09-14%20в%2013.58.09.png)
+![Снимок экрана](https://github.com/kuznetsovqa/yandex_api_stands_test/blob/master/Снимок%20экрана%202023-09-14%20в%2013.58.09.png)
